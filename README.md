@@ -8,14 +8,16 @@
 
 Building projects, learning new technologies, and turning ideas into reality through code.
 
-### Currently Learning
+## 🌱 Currently Learning
 
-- Python
-- Artificial Intelligence
-- Flutter Development
-- Web Development
-- Linux
-- Git & GitHub
+- 🐍 Python Development
+- 🤖 Artificial Intelligence
+- 📱 Flutter Development
+- 🌐 Web Development
+- 🐧 Linux
+- 🌿 Git & GitHub
+- 💡 Data Structures & Algorithms
+- 🚀 Building Real-World Projects
 
 ### Interests
 
