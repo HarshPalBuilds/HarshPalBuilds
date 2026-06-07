@@ -75,3 +75,7 @@ Building projects, learning new technologies, and turning ideas into reality thr
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPalBuilds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,css,js,git,github,linux,vscode" />
+</p>
