@@ -100,3 +100,8 @@ Building projects, learning new technologies, and turning ideas into reality thr
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,css,js,git,github,linux,vscode" />
 </p>
+
+---
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
