@@ -30,6 +30,17 @@ Building projects, learning new technologies, and turning ideas into reality thr
 - System Design
 - Open Source
 
+## 🚀 Current Focus
+
+- 🐍 Improving Python skills
+- 📱 Learning Flutter development
+- 🌐 Exploring web technologies
+- 🤖 Understanding AI concepts
+- 🐧 Exploring Linux and open-source systems
+- 🔐 Learning cybersecurity and ethical hacking concepts
+- 🛠 Experimenting with Kali Linux and security tools
+- 🔨 Building practical projects
+
 ## What I'm Working On
 
 🚀 Building real-world projects
