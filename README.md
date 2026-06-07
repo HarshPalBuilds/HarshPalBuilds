@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hey, I'm Harsh 👋
 
-<!--
-**HarshPalBuilds/HarshPalBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Flutter Enthusiast | Web Developer | AI Learner
 
-Here are some ideas to get you started:
+Building projects, learning new technologies, and turning ideas into reality through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- Python
+- Artificial Intelligence
+- Flutter Development
+- Web Development
+- Linux
+- Git & GitHub
+
+### Interests
+
+- Python Development
+- AI & Machine Learning
+- Flutter Apps
+- Web Development
+- Automation
+- Cybersecurity
+- System Design
+- Open Source
+
+## What I'm Working On
+
+🚀 Building real-world projects
+
+📱 Learning Flutter app development
+
+🌐 Exploring modern web technologies
+
+📚 Expanding my Python skills
+
+💡 Solving practical problems through code
+
+## Tech Stack
+
+- Python
+- Flutter
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Linux
+
+## Goals
+
+- Build useful real-world applications
+- Learn modern software development
+- Contribute to open source
+- Keep improving as a developer every day
+
+---
+
+⭐ Always learning, always building.
